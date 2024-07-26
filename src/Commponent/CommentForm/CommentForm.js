@@ -71,7 +71,6 @@ class FeedbackForm extends Component {
             />
           </div>
 </div>
-        <hr />
         <div className="form-group">
           <label htmlFor="subject">موضوع:</label>
           <input

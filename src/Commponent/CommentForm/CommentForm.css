@@ -92,15 +92,6 @@ input::-webkit-inner-spin-button {
         }
 }
 
-hr {
-    border: none;
-    border-top: 2.2px solid #e91e6200;
-    border-radius: 5px;
-    margin: 10px auto;
-    box-shadow: 0 0 15px #e91e6200;
-    background: #0F4C75;
-}
-
 .comment-box {
     border: 2px solid #3282B8;
     border-radius: 10px;
